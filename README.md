@@ -3,14 +3,17 @@
  
 A comprehensive collection of face de-identification research papers. Star ⭐ this repository if you find it helpful!
 
-## Table of Contents
+> Based on the Survey: **xxx** (2025)  
+> *Hui Wei, Hao Yu, and Guoying Zhao*
+
+## 📋Table of Contents
 - [Survey Papers](#survey-papers)
 - [Datasets](#datasets)
 - [Physical Domain Methods](#physical-domain-methods)
 - [Sensor Domain Methods](#sensor-domain-methods)
 - [Digital Domain Methods](#digital-domain-methods)
 
-## Survey Papers
+## 📑Survey Papers
 - **[2025]** Toward a Privacy-Preserving Face Recognition System: A Survey of Leakages and Solutions. ACM CSUR.
 - **[2025]** Person De-Identification: A Comprehensive Review of Methods, Datasets, Applications, and Ethical Aspects Along With New Dimensions. IEEE TBIOM
 - **[2025]** Faces in the Fog: A Deep Dive into Face De-Identification Techniques and Their Comparative Analysis. DICCT.
@@ -20,7 +23,7 @@ A comprehensive collection of face de-identification research papers. Star ⭐ t
 - **[2022]** Benchmarking 3D Face De-Identification with Preserving Facial Attributes. IEEE ICIP.
 - **[2015]** An Overview of Face De-identification in Still Images and Videos. IEEE FG.
 
-## Datasets
+## 💾Datasets
 - **LFW (Labeled Faces in the Wild):** The most prevalent benchmark for identity variance and pose diversity.
 - **VGGFace2:** Offers superior diversity with 9k+ identities and 3.31M images.
 - **FFHQ:** High-quality dataset frequently used for StyleGAN-based methods.
@@ -30,7 +33,7 @@ A comprehensive collection of face de-identification research papers. Star ⭐ t
 - **PURE / OBF:** For rPPG physiological signal preservation.
 
 
-## Physical Domain Methods
+## 😃Physical Domain Methods
 - **[2025]** Face3DAdv: Exploiting Robust Adversarial 3D Patches on Physical Face Recognition. [PDF](link) | [Code](link). IJCV.
 - **[2025]** ProjAttacker: A Configurable Physical Adversarial Attack for Face Recognition via Projector. *CVPR*.
 - **[2024]** Adversarial Relighting Against Face Recognition. *TIFS*.
@@ -50,7 +53,7 @@ A comprehensive collection of face de-identification research papers. Star ⭐ t
 - **[2019]** A General Framework for Adversarial Examples with Objectives. *ACM TOPS*.
 - **[2016]** Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition. [PDF](link) | [Code](link). ACM CCS.
 
-## Sensor Domain Methods
+## 📷Sensor Domain Methods
 - **[2024]** Privacy-Preserving Optics for Enhancing Protection in Face De-Identification. *CVPR*.
 - **[2024]** Learning a Dynamic Privacy-Preserving Camera Robust to Inversion Attacks. *ECCV*.
 - **[2024]** OpticalDR: A Deep Optical Imaging Model for Privacy-Protective Depression Recognition. *CVPR*.
@@ -62,7 +65,7 @@ A comprehensive collection of face de-identification research papers. Star ⭐ t
 - **[2017]** Pre-Capture Privacy for Small Vision Sensors. *IEEE TPAMI*.
 - **[2015]** Privacy Preserving Optics for Miniature Vision Sensors. *CVPR*.
 
-## Digital Domain Methods
+## 💻Digital Domain Methods
 - **[2025]** Face-DeID-Net: Generative Face De-Identification with Identity Removal and Attribute Preservation for Latent Diffusion Model Training. *ICSIP*.
 - **[2025]** 3D Face De-Identification With Preserving Multi-Facial Attributes: A Benchmark. *IEEE TBIOM*.
 - **[2025]** Face Anonymization Made Simple. *WACV*.
