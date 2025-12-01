@@ -79,7 +79,6 @@ A comprehensive collection of face de-identification (De-ID) research papers. St
 - **[2024]** Disguise without Disruption: Utility-Preserving Face De-Identification. *AAAI*.
 - **[2024]** DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection. *CVPR*.
 - **[2024]** Veil Privacy on Visual Data: Concealing Privacy for Humans, Unveiling for DNNs. *ECCV*.
-- **[2024]** A GAN-based face anonymization framework for preserving emotional expressions. *ACM TOMM*.
 - **[2024]** GANonymization: A GAN-Based Face Anonymization Framework for Preserving Emotional Expressions. *IEEE TMCCA*.
 - **[2023]** Achieving Privacy-Preserving Multi-View Consistency with Advanced 3D-Aware Face De-identification. *ACM MM Asia*.
 - **[2023]** Towards Face De-identification for Wearable Cameras. *ICMI*.
