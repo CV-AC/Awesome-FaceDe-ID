@@ -60,13 +60,13 @@ A comprehensive collection of face de-identification (De-ID) research papers. St
 - **[2022]** Learning Phase Mask for Privacy-Preserving Passive Depth Estimation. [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7139_ECCV_2022_paper.php). *ECCV*.
 - **[2022]** PrivHAR: Recognizing Human Actions from Privacy-Preserving Lens. [PDF](https://carloshinojosa.me/files/ECCV2022PrivHAR/5080.pdf). *ECCV*.
 - **[2021]** Learning Privacy-preserving Optics for Human Pose Estimation. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Hinojosa_Learning_Privacy-Preserving_Optics_for_Human_Pose_Estimation_ICCV_2021_paper.pdf) | [Code](https://github.com/carlosh93/privacy-optics-hpe). *ICCV*.
-- **[2018]** Extreme Low Resolution Activity Recognition with Multi-Siamese Embedding Learning. [PDF](link) | [Code](link). *AAAI*.
-- **[2018]** Privacy-Preserving Human Activity Recognition from Extreme Low Resolution. [PDF](link) | [Code](link). *AAAI*.
-- **[2017]** Pre-Capture Privacy for Small Vision Sensors. [PDF](link) | [Code](link). *IEEE TPAMI*.
-- **[2015]** Privacy Preserving Optics for Miniature Vision Sensors. [PDF](link) | [Code](link). *CVPR*.
+- **[2018]** Extreme Low Resolution Activity Recognition with Multi-Siamese Embedding Learning. [PDF](https://cdn.aaai.org/ojs/12299/12299-13-15827-1-2-20201228.pdf). *AAAI*.
+- **[2018]** Privacy-Preserving Human Activity Recognition from Extreme Low Resolution. [PDF](https://arxiv.org/abs/1604.03196). *AAAI*.
+- **[2017]** Pre-Capture Privacy for Small Vision Sensors. [PDF](https://ieeexplore.ieee.org/document/7778202). *IEEE TPAMI*.
+- **[2015]** Privacy Preserving Optics for Miniature Vision Sensors. [PDF](https://ieeexplore.ieee.org/document/7298628). *CVPR*.
 
 ## 💻Digital Domain Methods
-- **[2025]** Face-DeID-Net: Generative Face De-Identification with Identity Removal and Attribute Preservation for Latent Diffusion Model Training. [PDF](link) | [Code](link). *ICSIP*.
+- **[2025]** Face-DeID-Net: Generative Face De-Identification with Identity Removal and Attribute Preservation for Latent Diffusion Model Training. [PDF](https://ieeexplore.ieee.org/document/11171560). *ICSIP*.
 - **[2025]** 3D Face De-Identification With Preserving Multi-Facial Attributes: A Benchmark. [PDF](link) | [Code](link). *IEEE TBIOM*.
 - **[2025]** Face Anonymization Made Simple. [PDF](link) | [Code](link). *WACV*.
 - **[2025]** Facial Identity Editing: Towards Effective De-Identification. [PDF](link) | [Code](link). *ICIP*.
