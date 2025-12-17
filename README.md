@@ -45,21 +45,21 @@ A comprehensive collection of face de-identification (De-ID) research papers. St
 - **[2022]** Adversarial Mask: Real-World Universal Adversarial Attack on Face Recognition Models. [PDF](https://link.springer.com/chapter/10.1007/978-3-031-26409-2_19) | [Code](https://github.com/AlonZolfi/AdversarialMask). *ECML PKDD*.
 - **[2022]** Powerful Physical Adversarial Examples Against Practical Face Recognition Systems. [PDF](https://ieeexplore.ieee.org/document/9707528). *WACV*.
 - **[2022]** Adversarial Sticker: A Stealthy Attack Method in the Physical World. [PDF](https://ieeexplore.ieee.org/abstract/document/9779913) | [Code](https://github.com/jinyugy21/Adv-Stickers_RHDE). *IEEE TPAMI*.
-- **[2021]** Improving Transferability of Adversarial Patches on Face Recognition with Generative Models. [PDF](link) | [Code](link). *CVPR*.
-- **[2021]** Effective and Robust Physical-World Attacks on Deep Learning Face Recognition Systems. [PDF](link) | [Code](link). *TIFS*.
-- **[2021]** Adv-Makeup: A New Imperceptible and Transferable Attack on Face Recognition. [PDF](link) | [Code](link). *IJCAI*.
-- **[2020]** AdvHat: Real-World Adversarial Attack on ArcFace Face ID System. [PDF](link) | [Code](link). *ICPR*.
-- **[2020]** Adversarial Light Projection Attacks on Face Recognition Systems: A Feasibility Study. [PDF](link) | [Code](link). *CVPRW*.
-- **[2019]** A General Framework for Adversarial Examples with Objectives. [PDF](link) | [Code](link). *ACM TOPS*.
-- **[2016]** Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition. [PDF](link) | [Code](link). ACM CCS.
+- **[2021]** Improving Transferability of Adversarial Patches on Face Recognition with Generative Models. [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_Improving_Transferability_of_Adversarial_Patches_on_Face_Recognition_With_Generative_CVPR_2021_paper.pdf). *CVPR*.
+- **[2021]** Effective and Robust Physical-World Attacks on Deep Learning Face Recognition Systems. [PDF](https://ieeexplore.ieee.org/document/9505665) | [Code](https://github.com/csyuhao/FaceAdv). *TIFS*.
+- **[2021]** Adv-Makeup: A New Imperceptible and Transferable Attack on Face Recognition. [PDF](https://www.ijcai.org/proceedings/2021/0173.pdf) | [Code](https://github.com/TencentYoutuResearch/Adv-Makeup). *IJCAI*.
+- **[2020]** AdvHat: Real-World Adversarial Attack on ArcFace Face ID System. [PDF](https://arxiv.org/abs/1908.08705) | [Code](https://github.com/papermsucode/advhat). *ICPR*.
+- **[2020]** Adversarial Light Projection Attacks on Face Recognition Systems: A Feasibility Study. [PDF](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w48/Nguyen_Adversarial_Light_Projection_Attacks_on_Face_Recognition_Systems_A_Feasibility_CVPRW_2020_paper.pdf). *CVPRW*.
+- **[2019]** A General Framework for Adversarial Examples with Objectives. [PDF](https://dl.acm.org/doi/10.1145/3317611) | [Code](https://github.com/mahmoods01/agns). *ACM TOPS*.
+- **[2016]** Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition. [PDF](https://dl.acm.org/doi/10.1145/2976749.2978392) | [Code](https://github.com/mahmoods01/accessorize-to-a-crime). ACM CCS.
 
 ## 📷Sensor Domain Methods
-- **[2024]** Privacy-Preserving Optics for Enhancing Protection in Face De-Identification. [PDF](link) | [Code](link). *CVPR*.
-- **[2024]** Learning a Dynamic Privacy-Preserving Camera Robust to Inversion Attacks. [PDF](link) | [Code](link). *ECCV*.
-- **[2024]** OpticalDR: A Deep Optical Imaging Model for Privacy-Protective Depression Recognition. [PDF](link) | [Code](link). *CVPR*.
-- **[2022]** Learning Phase Mask for Privacy-Preserving Passive Depth Estimation. [PDF](link) | [Code](link). *ECCV*.
-- **[2022]** PrivHAR: Recognizing Human Actions from Privacy-Preserving Lens. [PDF](link) | [Code](link). *ECCV*.
-- **[2021]** Learning Privacy-preserving Optics for Human Pose Estimation. [PDF](link) | [Code](link). *ICCV*.
+- **[2024]** Privacy-Preserving Optics for Enhancing Protection in Face De-Identification. [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Lopez_Privacy-Preserving_Optics_for_Enhancing_Protection_in_Face_De-Identification_CVPR_2024_paper.pdf). *CVPR*.
+- **[2024]** Learning a Dynamic Privacy-Preserving Camera Robust to Inversion Attacks. [PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08911.pdf). *ECCV*.
+- **[2024]** OpticalDR: A Deep Optical Imaging Model for Privacy-Protective Depression Recognition. [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Pan_OpticalDR_A_Deep_Optical_Imaging_Model_for_Privacy-Protective_Depression_Recognition_CVPR_2024_paper.pdf) | [Code](https://github.com/divertingPan/OpticalDR). *CVPR*.
+- **[2022]** Learning Phase Mask for Privacy-Preserving Passive Depth Estimation. [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7139_ECCV_2022_paper.php). *ECCV*.
+- **[2022]** PrivHAR: Recognizing Human Actions from Privacy-Preserving Lens. [PDF](https://carloshinojosa.me/files/ECCV2022PrivHAR/5080.pdf). *ECCV*.
+- **[2021]** Learning Privacy-preserving Optics for Human Pose Estimation. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Hinojosa_Learning_Privacy-Preserving_Optics_for_Human_Pose_Estimation_ICCV_2021_paper.pdf) | [Code](https://github.com/carlosh93/privacy-optics-hpe). *ICCV*.
 - **[2018]** Extreme Low Resolution Activity Recognition with Multi-Siamese Embedding Learning. [PDF](link) | [Code](link). *AAAI*.
 - **[2018]** Privacy-Preserving Human Activity Recognition from Extreme Low Resolution. [PDF](link) | [Code](link). *AAAI*.
 - **[2017]** Pre-Capture Privacy for Small Vision Sensors. [PDF](link) | [Code](link). *IEEE TPAMI*.
@@ -113,4 +113,4 @@ A comprehensive collection of face de-identification (De-ID) research papers. St
 - **[2006]** Blur Filtration Fails to Preserve Privacy for Home-based Video Conferencing. [PDF](link) | [Code](link). *ACM TOCHI*.
 - **[2005]** Preserving Privacy by De-identifying Face Images. [PDF](link) | [Code](link). *IEEE TKDE*.
 - **[2000]** The Effects of Filtered Video on Awareness and Privacy. [PDF](link) | [Code](link). *CSCW*.
-- **[1996]** Techniques for Addressing Fundamental Privacy and Disruption Tradeoffs in Awareness Support Systems. [PDF](link) | [Code](link). *CSCW*.
+- **[1996]** Techniques for Addressing Fundamental Privacy and Disruption Tradeoffs in Awareness Support Systems. [PDF](https://dl.acm.org/doi/10.1145/240080.240295). *CSCW*.
