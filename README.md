@@ -3,7 +3,7 @@
  
 A comprehensive collection of face de-identification (De-ID) research papers. Star ⭐ this repository if you find it helpful!
 
-> Based on the Survey: **xxx** (2025)  
+> Based on the Survey: **Face De-Identification: A Domain-Centric Survey from Capture to Processing** (2025)  
 > *Hui Wei, Hao Yu, and Guoying Zhao*
 
 ## 📋Table of Contents
@@ -42,9 +42,9 @@ A comprehensive collection of face de-identification (De-ID) research papers. St
 - **[2023]** Physical-World Optical Adversarial Attacks on 3D Face Recognition. [PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Physical-World_Optical_Adversarial_Attacks_on_3D_Face_Recognition_CVPR_2023_paper.html) | [Code](https://github.com/PolyLiYJ/SLAttack). *CVPR*.
 - **[2023]** Towards Effective Adversarial Textured 3D Meshes on Physical Face Recognition. [PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Towards_Effective_Adversarial_Textured_3D_Meshes_on_Physical_Face_Recognition_CVPR_2023_paper.html) | [Code](https://github.com/thu-ml/AT3D). *CVPR*.
 - **[2023]** Simultaneously Optimizing Perturbations and Positions for Black-Box Adversarial Patch Attacks. [PDF](https://ieeexplore.ieee.org/abstract/document/9999043) | [Code](https://github.com/shighghyujie/newpatch-rl). *IEEE TPAMI*.
-- **[2022]** Adversarial Mask: Real-World Universal Adversarial Attack on Face Recognition Models. [PDF]([link](https://link.springer.com/chapter/10.1007/978-3-031-26409-2_19)) | [Code]([link](https://github.com/AlonZolfi/AdversarialMask)). *ECML PKDD*.
-- **[2022]** Powerful Physical Adversarial Examples Against Practical Face Recognition Systems. [PDF](link) | [Code](link). *WACV*.
-- **[2022]** Adversarial Sticker: A Stealthy Attack Method in the Physical World. [PDF](link) | [Code](link). *IEEE TPAMI*.
+- **[2022]** Adversarial Mask: Real-World Universal Adversarial Attack on Face Recognition Models. [PDF](https://link.springer.com/chapter/10.1007/978-3-031-26409-2_19) | [Code](https://github.com/AlonZolfi/AdversarialMask). *ECML PKDD*.
+- **[2022]** Powerful Physical Adversarial Examples Against Practical Face Recognition Systems. [PDF](https://ieeexplore.ieee.org/document/9707528). *WACV*.
+- **[2022]** Adversarial Sticker: A Stealthy Attack Method in the Physical World. [PDF](https://ieeexplore.ieee.org/abstract/document/9779913) | [Code](https://github.com/jinyugy21/Adv-Stickers_RHDE). *IEEE TPAMI*.
 - **[2021]** Improving Transferability of Adversarial Patches on Face Recognition with Generative Models. [PDF](link) | [Code](link). *CVPR*.
 - **[2021]** Effective and Robust Physical-World Attacks on Deep Learning Face Recognition Systems. [PDF](link) | [Code](link). *TIFS*.
 - **[2021]** Adv-Makeup: A New Imperceptible and Transferable Attack on Face Recognition. [PDF](link) | [Code](link). *IJCAI*.
