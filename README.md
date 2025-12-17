@@ -1,5 +1,5 @@
 # Awesome Face De-Identification
- ![Awesome](https://awesome.re/badge.svg) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cv-ac.awesome-face-de-id)
+ ![Awesome](https://awesome.re/badge.svg) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cv-ac.awesome-facede-id)
  
 A comprehensive collection of face de-identification (De-ID) research papers. Star ⭐ this repository if you find it helpful!
 
