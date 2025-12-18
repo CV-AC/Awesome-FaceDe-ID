@@ -6,7 +6,7 @@ A comprehensive collection of face de-identification (De-ID) research papers. St
 > Based on the Survey: **Face De-Identification: A Domain-Centric Survey from Capture to Processing** (2025)  
 > *Hui Wei, Hao Yu, and Guoying Zhao*
 
-<img src="https://github.com/CV-AC/Awesome-FaceDe-ID/blob/main/assets/fdeid.png?raw=true" width=50%>
+<img src="https://github.com/CV-AC/Awesome-FaceDe-ID/blob/main/assets/fdeid.png?raw=true" width=60%>
 
 ## 📋Table of Contents
 - [Survey Papers](#survey-papers)
@@ -69,50 +69,51 @@ A comprehensive collection of face de-identification (De-ID) research papers. St
 
 ## 💻Digital Domain Methods
 - **[2025]** Face-DeID-Net: Generative Face De-Identification with Identity Removal and Attribute Preservation for Latent Diffusion Model Training. [PDF](https://ieeexplore.ieee.org/document/11171560). *ICSIP*.
-- **[2025]** 3D Face De-Identification With Preserving Multi-Facial Attributes: A Benchmark. [PDF](link) | [Code](link). *IEEE TBIOM*.
-- **[2025]** Face Anonymization Made Simple. [PDF](link) | [Code](link). *WACV*.
-- **[2025]** Facial Identity Editing: Towards Effective De-Identification. [PDF](link) | [Code](link). *ICIP*.
-- **[2025]** Balancing Privacy and Performance: A Many-in-One Approach for Image Anonymization. [PDF](link) | [Code](link). *AAAI*.
-- **[2025]** Adv-Inversion: Stealthy Adversarial Attacks via GAN-Inversion for Facial Privacy Protection. [PDF](link) | [Code](link). *TIFS*.
-- **[2025]** Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks. [PDF](link) | [Code](link). *CVPR*.
-- **[2025]** Enhancing Facial Privacy Protection via Weakening Diffusion Purification. [PDF](link) | [Code](link). *CVPR*.
-- **[2025]** Improving the Transferability of Adversarial Attacks on Face Recognition with Diverse Parameters Augmentation. [PDF](link) | [Code](link). *CVPR*.
-- **[2024]** Personalized Privacy Protection Mask Against Unauthorized Facial Recognition. [PDF](link) | [Code](link). *ECCV*.
-- **[2024]** Disguise without Disruption: Utility-Preserving Face De-Identification. [PDF](link) | [Code](link). *AAAI*.
-- **[2024]** DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection. [PDF](link) | [Code](link). *CVPR*.
-- **[2024]** Veil Privacy on Visual Data: Concealing Privacy for Humans, Unveiling for DNNs. [PDF](link) | [Code](link). *ECCV*.
-- **[2024]** GANonymization: A GAN-Based Face Anonymization Framework for Preserving Emotional Expressions. [PDF](link) | [Code](link). *IEEE TMCCA*.
-- **[2023]** Achieving Privacy-Preserving Multi-View Consistency with Advanced 3D-Aware Face De-identification. [PDF](link) | [Code](link). *ACM MM Asia*.
-- **[2023]** Towards Face De-identification for Wearable Cameras. [PDF](link) | [Code](link). *ICMI*.
-- **[2023]** Discrete Point-Wise Attack Is Not Enough: Generalized Manifold Adversarial Attack for Face Recognition. [PDF](link) | [Code](link). *CVPR*.
-- **[2023]** Transferable Black-Box Attack Against Face Recognition With Spatial Mutable Adversarial Patch. [PDF](link) | [Code](link). *TIFS*.
-- **[2023]** Sibling-Attack: Rethinking Transferable Adversarial Attacks Against Face Recognition. [PDF](link) | [Code](link). *CVPR*.
-- **[2023]** DiffProtect: Generate Adversarial Examples with Diffusion Models for Facial Privacy Protection. [PDF](link) | [Code](link). *arXiv*.
-- **[2023]** CLIP2Protect: Protecting Facial Privacy Using Text-Guided Makeup via Adversarial Latent Search. [PDF](link) | [Code](link). *CVPR*.
-- **[2023]** Face Image De-Identification by Feature Space Adversarial Perturbation. [PDF](link) | [Code](link). *CCPE*.
-- **[2022]** Protecting facial privacy: Generating adversarial identity masks via style-robust makeup transfer. [PDF](link) | [Code](link). *CVPR*.
-- **[2022]** Adv-Attribute: Inconspicuous and Transferable Adversarial Attack on Face Recognition. [PDF](link) | [Code](link). *NeurIPS*.
-- **[2022]** IdentityMask: Deep Motion Flow Guided Reversible Face Video De-Identification. [PDF](link) | [Code](link). *IEEE TCSVT*.
-- **[2021]** Effective De-identification Generative Adversarial Network for Face Anonymization. [PDF](link) | [Code](link). *ACM MM*.
-- **[2021]** Towards Face Encryption by Generating Adversarial Identity Masks. [PDF](link) | [Code](link). *ICCV*.
-- **[2020]** Towards Transferable Adversarial Attack Against Deep Face Recognition. [PDF](link) | [Code](link). *TIFS*.
-- **[2020]** AdvFaces: Adversarial Face Synthesis. [PDF](link) | [Code](link). *IJCB*.
-- **[2020]** CIAGAN: Conditional Identity Anonymization Generative Adversarial Networks. [PDF](link) | [Code](link). *CVPR*.
-- **[2019]** AnonymousNet: Natural Face De-Identification With Measurable Privacy. [PDF](link) | [Code](link). *CVPRW*.
-- **[2019]** Efficient Decision-based Black-box Adversarial Attacks on Face Recognition. [PDF](link) | [Code](link). *CVPR*.
-- **[2019]** Attributes Preserving Face De-Identification. [PDF](link) | [Code](link). *ICCVW*.
-- **[2017]** Clothing Co-Parsing by Joint Image Segmentation and Labeling. [PDF](link) | [Code](link). *CVPR*.
-- **[2015]** Face De-identification Using Facial Identity Preserving Features. [PDF](link) | [Code](link). *GlobalSIP*.
-- **[2015]** Attribute Preserved Face De-identification. [PDF](link) | [Code](link). *ICB*.
-- **[2015]** Face De-identification with Expressions Preservation. [PDF](link) | [Code](link). *ICIP*.
-- **[2014]** Photorealistic Face De-Identification by Aggregating Donors’ Face Components. [PDF](link) | [Code](link). *ACCV*.
-- **[2014]** An Approach to the De-Identification of Faces in Different Poses. [PDF](link) | [Code](link). *ICICTEM*.
-- **[2014]** GARP-Face: Balancing Privacy Protection and Utility Preservation in Face De-identification. [PDF](link) | [Code](link). *IJCB*.
-- **[2014]** Face De-identification with Perfect Privacy Protection. [PDF](link) | [Code](link). *ICICTEM*.
-- **[2008]** Semi-Supervised Learning of Multi-Factor Models for Face De-Identification. [PDF](link) | [Code](link). *CVPR*.
-- **[2007]** Towards Real-World Face De-Identification. [PDF](link) | [Code](link). *BTAS*.
-- **[2006]** Model-Based Face De-Identification. [PDF](link) | [Code](link). *CVPRW*.
-- **[2006]** Blur Filtration Fails to Preserve Privacy for Home-based Video Conferencing. [PDF](link) | [Code](link). *ACM TOCHI*.
-- **[2005]** Preserving Privacy by De-identifying Face Images. [PDF](link) | [Code](link). *IEEE TKDE*.
-- **[2000]** The Effects of Filtered Video on Awareness and Privacy. [PDF](link) | [Code](link). *CSCW*.
+- **[2025]** 3D Face De-Identification With Preserving Multi-Facial Attributes: A Benchmark. [PDF](https://ieeexplore.ieee.org/document/11005387) | [Code](https://github.com/kevinhmcheng/3d-face-de-id). *IEEE TBIOM*.
+- **[2025]** Face Anonymization Made Simple. [PDF](https://openaccess.thecvf.com/content/WACV2025/papers/Kung_Face_Anonymization_Made_Simple_WACV_2025_paper.pdf) | [Code](https://github.com/hanweikung/face_anon_simple). *WACV*.
+- **[2025]** Facial Identity Editing: Towards Effective De-Identification. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11084682). *ICIP*.
+- **[2025]** Balancing Privacy and Performance: A Many-in-One Approach for Image Anonymization. [PDF](https://dl.acm.org/doi/10.1609/aaai.v39i17.33936). *AAAI*.
+- **[2025]** Adv-Inversion: Stealthy Adversarial Attacks via GAN-Inversion for Facial Privacy Protection. [PDF](https://ieeexplore.ieee.org/document/11218144). *TIFS*.
+- **[2025]** Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks. [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Adv-CPG_A_Customized_Portrait_Generation_Framework_with_Facial_Adversarial_Attacks_CVPR_2025_paper.pdf) | [Code](https://github.com/JunyingWang959/Adv-CPG). *CVPR*.
+- **[2025]** Enhancing Facial Privacy Protection via Weakening Diffusion Purification. [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Salar_Enhancing_Facial_Privacy_Protection_via_Weakening_Diffusion_Purification_CVPR_2025_paper.pdf) | [Code](https://github.com/parham1998/Facial-Privacy-Protection). *CVPR*.
+- **[2025]** Improving the Transferability of Adversarial Attacks on Face Recognition with Diverse Parameters Augmentation. [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Improving_the_Transferability_of_Adversarial_Attacks_on_Face_Recognition_with_CVPR_2025_paper.pdf) | [Code](https://github.com/fengfanzhou/DPA). *CVPR*.
+- **[2024]** Personalized Privacy Protection Mask Against Unauthorized Facial Recognition. [PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10846.pdf) | [Code](https://github.com/git-disl/Chameleon). *ECCV*.
+- **[2024]** Disguise without Disruption: Utility-Preserving Face De-Identification. [PDF](https://arxiv.org/abs/2303.13269). *AAAI*.
+- **[2024]** DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection. [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_DiffAM_Diffusion-based_Adversarial_Makeup_Transfer_for_Facial_Privacy_Protection_CVPR_2024_paper.pdf) | [Code](https://github.com/HansSunY/DiffAM). *CVPR*.
+- **[2024]** Veil Privacy on Visual Data: Concealing Privacy for Humans, Unveiling for DNNs. [PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11044.pdf). *ECCV*.
+- **[2024]** GANonymization: A GAN-Based Face Anonymization Framework for Preserving Emotional Expressions. [PDF](https://dl.acm.org/doi/10.1145/3641107) | [Code](https://github.com/hcmlab/GANonymization). *IEEE TMCCA*.
+- **[2023]** Achieving Privacy-Preserving Multi-View Consistency with Advanced 3D-Aware Face De-identification. [PDF](https://dl.acm.org/doi/10.1145/3595916.3626407). *ACM MM Asia*.
+- **[2023]** Towards Face De-identification for Wearable Cameras. [PDF](https://dl.acm.org/doi/10.1145/3617233.3617276). *ICMI*.
+- **[2023]** Discrete Point-Wise Attack Is Not Enough: Generalized Manifold Adversarial Attack for Face Recognition. [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Discrete_Point-Wise_Attack_Is_Not_Enough_Generalized_Manifold_Adversarial_Attack_CVPR_2023_paper.pdf) | [Code](https://github.com/tokaka22/CVPR23-GMAA). *CVPR*.
+- **[2023]** Transferable Black-Box Attack Against Face Recognition With Spatial Mutable Adversarial Patch. [PDF](https://ieeexplore.ieee.org/document/10234435). *TIFS*.
+- **[2023]** Sibling-Attack: Rethinking Transferable Adversarial Attacks Against Face Recognition. [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Sibling-Attack_Rethinking_Transferable_Adversarial_Attacks_Against_Face_Recognition_CVPR_2023_paper.pdf). *CVPR*.
+- **[2023]** DiffProtect: Generate Adversarial Examples with Diffusion Models for Facial Privacy Protection. [PDF](https://arxiv.org/abs/2305.13625) | [Code](https://github.com/joellliu/DiffProtect/). *arXiv*.
+- **[2023]** CLIP2Protect: Protecting Facial Privacy Using Text-Guided Makeup via Adversarial Latent Search. [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Shamshad_CLIP2Protect_Protecting_Facial_Privacy_Using_Text-Guided_Makeup_via_Adversarial_Latent_CVPR_2023_paper.pdf) | [Code](https://github.com/fahadshamshad/Clip2Protect). *CVPR*.
+- **[2023]** Face Image De-Identification by Feature Space Adversarial Perturbation. [PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.7554). *CCPE*.
+- **[2022]** Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer. [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Protecting_Facial_Privacy_Generating_Adversarial_Identity_Masks_via_Style-Robust_Makeup_CVPR_2022_paper.pdf) | [Code](https://github.com/CGCL-codes/AMT-GAN). *CVPR*.
+- **[2022]** Adv-Attribute: Inconspicuous and Transferable Adversarial Attack on Face Recognition. [PDF](https://papers.neurips.cc/paper_files/paper/2022/file/dccbeb7a8df3065c4646928985edf435-Paper-Conference.pdf). *NeurIPS*.
+- **[2022]** IdentityMask: Deep Motion Flow Guided Reversible Face Video De-Identification. [PDF](https://ieeexplore.ieee.org/document/9832607). *IEEE TCSVT*.
+- **[2021]** Effective De-identification Generative Adversarial Network for Face Anonymization. [PDF](https://dl.acm.org/doi/10.1145/3474085.3475464). *ACM MM*.
+- **[2021]** Identity-Preserving Face Anonymization via Adaptively Facial Attributes Obfuscation. [PDF](https://dl.acm.org/doi/abs/10.1145/3474085.3475367) | [Code](https://github.com/RuoyuChen10/Facial_Attributes_Obfuscation). *ACM MM*.
+- **[2021]** Towards Face Encryption by Generating Adversarial Identity Masks. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Towards_Face_Encryption_by_Generating_Adversarial_Identity_Masks_ICCV_2021_paper.pdf) | [Code](https://github.com/ShawnXYang/TIP-IM). *ICCV*.
+- **[2020]** Towards Transferable Adversarial Attack Against Deep Face Recognition. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9252132). *TIFS*.
+- **[2020]** AdvFaces: Adversarial Face Synthesis. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9304898) | [Code](https://github.com/ronny3050/AdvFaces). *IJCB*.
+- **[2020]** CIAGAN: Conditional Identity Anonymization Generative Adversarial Networks. [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Maximov_CIAGAN_Conditional_Identity_Anonymization_Generative_Adversarial_Networks_CVPR_2020_paper.pdf) | [Code](https://github.com/dvl-tum/ciagan). *CVPR*.
+- **[2019]** AnonymousNet: Natural Face De-Identification With Measurable Privacy. [PDF](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Li_AnonymousNet_Natural_Face_De-Identification_With_Measurable_Privacy_CVPRW_2019_paper.pdf). *CVPRW*.
+- **[2019]** Efficient Decision-based Black-box Adversarial Attacks on Face Recognition. [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Efficient_Decision-Based_Black-Box_Adversarial_Attacks_on_Face_Recognition_CVPR_2019_paper.pdf) | [Code](https://github.com/sgmath12/efficient-decision-based-black-box-adversarial-attacks-on-face-recognition). *CVPR*.
+- **[2019]** Attributes Preserving Face De-Identification. [PDF](https://ieeexplore.ieee.org/document/9022403). *ICCVW*.
+- **[2017]** I Know That Person: Generative Full Body and Face De-identification of People in Images. [PDF](https://www.computer.org/csdl/proceedings-article/cvprw/2017/0733b319/12OmNBKmXhH). *CVPRW*.
+- **[2015]** Face De-identification Using Facial Identity Preserving Features. [PDF](https://ieeexplore.ieee.org/document/7418263). *GlobalSIP*.
+- **[2015]** Attribute Preserved Face De-identification. [PDF](https://ieeexplore.ieee.org/document/7139096). *ICB*.
+- **[2015]** Face De-identification with Expressions Preservation. [PDF](https://ieeexplore.ieee.org/document/7351631). *ICIP*.
+- **[2014]** Photorealistic Face De-Identification by Aggregating Donors’ Face Components. [PDF](https://link.springer.com/chapter/10.1007/978-3-319-16811-1_11). *ACCV*.
+- **[2014]** An Approach to the De-Identification of Faces in Different Poses. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6859758). *ICICTEM*.
+- **[2014]** GARP-Face: Balancing Privacy Protection and Utility Preservation in Face De-identification. [PDF](https://ieeexplore.ieee.org/document/6996249). *IJCB*.
+- **[2014]** Face De-identification with Perfect Privacy Protection. [PDF](https://ieeexplore.ieee.org/document/6859756). *MIPRO*.
+- **[2008]** Semi-Supervised Learning of Multi-Factor Models for Face De-Identification. [PDF](https://ieeexplore.ieee.org/document/4587369). *CVPR*.
+- **[2007]** Towards Real-World Face De-Identification. [PDF](https://ieeexplore.ieee.org/document/4401915). *BTAS*.
+- **[2006]** Model-Based Face De-Identification. [PDF](https://ieeexplore.ieee.org/document/1640608). *CVPRW*.
+- **[2006]** Blur Filtration Fails to Preserve Privacy for Home-based Video Conferencing. [PDF](https://dl.acm.org/doi/10.1145/1143518.1143519). *ACM TOCHI*.
+- **[2005]** Preserving Privacy by De-identifying Face Images. [PDF](https://ieeexplore.ieee.org/document/1377174). *IEEE TKDE*.
+- **[2000]** The Effects of Filtered Video on Awareness and Privacy. [PDF](https://dl.acm.org/doi/10.1145/358916.358935). *CSCW*.
 - **[1996]** Techniques for Addressing Fundamental Privacy and Disruption Tradeoffs in Awareness Support Systems. [PDF](https://dl.acm.org/doi/10.1145/240080.240295). *CSCW*.
