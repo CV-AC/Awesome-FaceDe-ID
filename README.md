@@ -6,7 +6,7 @@ A comprehensive collection of face de-identification (De-ID) research papers. St
 > Based on the Survey: **Face De-Identification: A Domain-Centric Survey from Capture to Processing** (2025)  
 > *Hui Wei, Hao Yu, and Guoying Zhao*
 
-<img src="https://github.com/CV-AC/Awesome-FaceDe-ID?raw=true" width=50%>
+<img src="https://github.com/CV-AC/Awesome-FaceDe-ID/blob/main/assets/fdeid.png?raw=true" width=50%>
 
 ## 📋Table of Contents
 - [Survey Papers](#survey-papers)
