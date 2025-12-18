@@ -1,7 +1,7 @@
 # Awesome Face De-Identification
  ![Awesome](https://awesome.re/badge.svg) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cv-ac.awesome-facede-id)
  
-A comprehensive collection of face de-identification (De-ID) research papers. Star ⭐ this repository if you find it helpful!
+A comprehensive collection of face de-identification (De-ID) research papers. Star ⭐ this repository if you find it helpful! If you find any omitted literature or source code, please feel free to submit issues for addition.
 
 > Based on the survey paper: **Face De-Identification: A Domain-Centric Survey from Capture to Processing**  
 > Authors: *Hui Wei, Hao Yu, and Guoying Zhao*
