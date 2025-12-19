@@ -9,6 +9,7 @@ A comprehensive collection of face de-identification (De-ID) research papers. St
 > Authors: *Hui Wei, Hao Yu, and Guoying Zhao*
 
 The awesome face De-ID repository adopts a **domain-centric** taxonomy that categorizes approaches into three classes: physical, sensor, and digital.
+
 <img src="https://github.com/CV-AC/Awesome-FaceDe-ID/blob/main/assets/fdeid.png?raw=true" width=60%>
 
 ## 📋Table of Contents
