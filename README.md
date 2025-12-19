@@ -1,3 +1,4 @@
+<img src="https://github.com/CV-AC/Awesome-FaceDe-ID/blob/main/assets/teaser.jpeg?raw=true" width=100%>
 # Awesome Face De-Identification
  ![Awesome](https://awesome.re/badge.svg) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cv-ac.awesome-facede-id)
  
