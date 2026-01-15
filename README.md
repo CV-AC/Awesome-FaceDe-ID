@@ -13,6 +13,7 @@ The awesome face De-ID repository adopts a **domain-centric** taxonomy that cate
 <img src="https://github.com/CV-AC/Awesome-FaceDe-ID/blob/main/assets/fdeid.png?raw=true" width=60%>
 
 :loudspeaker:<strong>Last updated: 15/01/2026</strong>  
+- [01/2026] Update with a TPAMI paper.
 - [12/2025] Update with representative papers.
 
 
@@ -42,8 +43,8 @@ The awesome face De-ID repository adopts a **domain-centric** taxonomy that cate
 - **Bosphorus / BU-3DFE:** For 3D-aware face De-ID methods.
 - **PURE / OBF:** For rPPG physiological signal preservation.
 
-
 ## 😃Physical Domain Methods
+- **[2025]** Natural Adversarial Mask for Face Identity Protection in Physical World. [PDF](https://ieeexplore.ieee.org/document/10816466) | [Code](https://github.com/imxtx/NatMask). TPAMI.
 - **[2025]** Face3DAdv: Exploiting Robust Adversarial 3D Patches on Physical Face Recognition. [PDF](https://link.springer.com/article/10.1007/s11263-024-02177-6). IJCV.
 - **[2025]** ProjAttacker: A Configurable Physical Adversarial Attack for Face Recognition via Projector. [PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_ProjAttacker_A_Configurable_Physical_Adversarial_Attack_for_Face_Recognition_via_CVPR_2025_paper.html). *CVPR*.
 - **[2024]** Adversarial Relighting Against Face Recognition. [PDF](https://ieeexplore.ieee.org/abstract/document/10478138). *TIFS*.
