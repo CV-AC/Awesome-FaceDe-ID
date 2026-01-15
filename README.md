@@ -12,6 +12,10 @@ The awesome face De-ID repository adopts a **domain-centric** taxonomy that cate
 
 <img src="https://github.com/CV-AC/Awesome-FaceDe-ID/blob/main/assets/fdeid.png?raw=true" width=60%>
 
+:loudspeaker:<strong>Last updated: 15/01/2026</strong>  
+- [12/2025] Update with representative papers.
+
+
 ## 📋Table of Contents
 - [Survey Papers](#survey-papers)
 - [Datasets](#datasets)
