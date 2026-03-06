@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="cEUG5js-22_ygLBP0rLcp8rZSKJsb7B4l3RNjvCrV7g" />
-
 <img src="https://github.com/CV-AC/Awesome-FaceDe-ID/blob/main/assets/teaser.jpeg?raw=true" width=100%>
 
 # Awesome Face De-Identification
